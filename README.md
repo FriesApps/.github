@@ -1,1 +1,1 @@
-# We make web easier ! ## with simple extensions :)
+# We make web easier with simple extensions 
