@@ -1,5 +1,5 @@
 # FriesApps
 
 ## 👋 Hello!
-### Welcome to FriesApps'GitHub Organization!
+### Welcome to FriesApps's GitHub Organization!
 We make web easier with simple extensions 
